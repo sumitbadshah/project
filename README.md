@@ -17,6 +17,3 @@ OpenCV (opencv-python)
 NumPy
 PyQt5
 SQLite3 (built-in)
-
-Hardware
-Webcam
